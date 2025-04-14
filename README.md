@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @nickgannon10
-- 👀 I’m interested in 1) Generative Models, 2) Generative Agents, and 3) Prompt Engineering
-- 🌱 I’m currently learning about Diffusion Based Generative Models and Transformers 
-- 💞️ I’m looking to collaborate on any fun projects 
+- i like ai
 - 📫 How to reach me nickgannon10@gmail.com
 
 <!---
