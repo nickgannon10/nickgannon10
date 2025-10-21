@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nickgannon10
-- i like ai
+- I like ai
 - 📫 How to reach me nickgannon10@gmail.com
 
 <!---
